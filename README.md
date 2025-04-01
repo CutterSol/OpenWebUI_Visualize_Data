@@ -4,7 +4,7 @@ Note: If you have trouble running this function, open a python cli and try doing
 
 There are 2 different json files.  If one does not import correctly into your OpenWebUi tools menu, then try the other one.  
 
-THere are no gaurantees this works as I am still testing.  
+There are no gaurantees this works as I am still testing.  
 
 Link to working OpenWebUI function:
 
