@@ -9,3 +9,6 @@ There are no gaurantees this works as I am still testing.
 Link to working OpenWebUI function:
 
 https://openwebui.com/f/saulcutter/visualize
+
+Omar's OG function (seems to not be maintained)
+https://github.com/christ-offer/open-webui-tools
